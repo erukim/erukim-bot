@@ -1,4 +1,4 @@
-# erukim-bot
+# 이루봇
 
 이루봇은방송인 이루의 대표 봇으로 만들어진 봇입니다.
 
@@ -10,3 +10,7 @@
 실행 : npm run start
 
 discord.js : v13
+
+
+초대코드 : http://red.hiplay.kr/erukim
+기본명령어 : /help
